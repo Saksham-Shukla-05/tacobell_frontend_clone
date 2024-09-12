@@ -165,7 +165,7 @@ export default function Main({ OpenMore, setOpenMore }) {
               The line-up
             </p>
           </section>
-          <section className="mt-6 flex md:justify-between justify-center p-0 gap-4 md:gap-4 flex-wrap h-full w-full  md:p-5">
+          <section className="mt-6 flex md:justify-between justify-between p-2 gap-2 md:gap-4 flex-wrap h-full w-full  md:p-5">
             <MenuItems
               BgImage="https://res.cloudinary.com/dlycinwrl/image/upload/v1725882068/everyday_kxnqzn.jpg"
               Svg="https://res.cloudinary.com/dlycinwrl/image/upload/v1725885354/svgexport-3_swieod.png"
